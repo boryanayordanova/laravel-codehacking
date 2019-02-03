@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2",
+    "laravel-elixir": "^5.0.0"
+  },
+  "dependencies": {
+    "bootstrap-sass": "^3.0.0",
+    "laravel-elixir-webpack-official": "^1.0.10",
+    "module_name": "^1.0.0",
+    "reinstall": "^2.0.0"
+  }
+}
