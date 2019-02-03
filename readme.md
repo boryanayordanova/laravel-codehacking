@@ -1,6 +1,5 @@
-UniSharp laravel-filemanager
+# UniSharp laravel-filemanager
 
-/*---------------------------
 
 ## 1. composer require unisharp/laravel-filemanager
 
